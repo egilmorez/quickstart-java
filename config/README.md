@@ -21,6 +21,7 @@ Getting started
 Run
 ---
 
+- Clone or download the sample from the [quickstart-java](https://github.com/firebase/quickstart-java) repository.
 - From the `config` directory run `./gradlew run -Paction=get` to retrieve the template.
   - The returned template is stored in a file named `config.json`.
   - Note the Etag printed to the console you will need to use it when publishing template updates.
